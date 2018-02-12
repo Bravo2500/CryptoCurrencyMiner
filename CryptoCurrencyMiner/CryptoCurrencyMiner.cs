@@ -16,5 +16,11 @@ namespace CryptoCurrencyMiner
         {
             InitializeComponent();
         }
+
+        private void CryptoCurrencyMiner_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
+// this is joeandbob testing his git
