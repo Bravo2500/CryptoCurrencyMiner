@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CryptoCurrencyMiner
 {
-    public partial class Form1 : Form
+    public partial class CryptoCurrencyMiner : Form
     {
-        public Form1()
+        public CryptoCurrencyMiner()
         {
             InitializeComponent();
         }
