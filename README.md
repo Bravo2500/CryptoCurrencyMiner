@@ -2,13 +2,18 @@
 A WIP Cryptocurrency mining tool.
 
 ## About
-The purpose of this tool is to provide miners software that they can put on their Microsoft Windows based mining computers, and it will automatically start mining.
+The purpose of this tool is to provide miners software that they can put on their Microsoft Windows based mining computers, and it will automatically start mining. This tool will also alow the miners to get info like hash rates, cpu/gpu temp(s), and performance levels.
+
+## Todo
+ - Actually add stuff
+ - Create server w/ client builder
+ - Add encryption to networking
+ - If everything else is done, make it look good.
 
 ## Credit
 This software uses [Nethereum](https://github.com/Nethereum/Nethereum) and [NBitcoin](https://github.com/MetacoSA/NBitcoin)
 
 ## Disclaimer
-
 This repository is for educational purposes only, the use of this code is your responsibility.
 
 I take NO responsibility and/or liability for how you choose to use the software available here. By using the software available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files and links available here are for EDUCATION and/or RESEARCH purposes ONLY.
