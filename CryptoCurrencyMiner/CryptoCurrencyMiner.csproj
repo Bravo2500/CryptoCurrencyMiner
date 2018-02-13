@@ -51,7 +51,7 @@
     <Compile Include="CryptoCurrencyMiner.Designer.cs">
       <DependentUpon>CryptoCurrencyMiner.cs</DependentUpon>
     </Compile>
-    <Compile Include="CryptoCurrencyMinerProgam.cs" />
+    <Compile Include="CryptoCurrencyMinerProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CryptoCurrencyMiner.resx">
       <DependentUpon>CryptoCurrencyMiner.cs</DependentUpon>

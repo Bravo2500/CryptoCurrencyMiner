@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace CryptoCurrencyMiner
 {
-    static class CryptoCurrencyMinerProgam
+    static class CryptoCurrencyMinerProgram
     {
         /// <summary>
         /// The main entry point for the application.
