@@ -13,7 +13,9 @@ The purpose of this tool is to provide miners software that they can put on thei
  - If everything else is done, make it look good.
 
 ## Credit
-This software uses [Nethereum](https://github.com/Nethereum/Nethereum) and [NBitcoin](https://github.com/MetacoSA/NBitcoin)
+This software might use the following:
+ - [miningcore](https://github.com/coinfoundry/miningcore)
+ - [hypepool](https://github.com/bonesoul/hypepool)
 
 ## Disclaimer
 This repository is for educational purposes only, the use of this code is your responsibility.
