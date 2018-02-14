@@ -42,12 +42,12 @@ namespace CryptoCurrencyMiner
             dataGridView1.ContextMenu.Show(this, new Point(MousePosition.X, MousePosition.Y));
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void Stopserver_Click(object sender, EventArgs e)
         {
             // Stop the server
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Builderbutton_Click(object sender, EventArgs e)
         {
             // Open builder window
         }
