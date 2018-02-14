@@ -1,3 +1,5 @@
+![Garbage Miner](https://github.com/kaiwenliu/CryptoCurrencyMiner/blob/master/60640C51-59D3-42E3-A8A2-C5912F8B8ECC.png)
+
 # CryptoCurrencyMiner
 A WIP Cryptocurrency mining tool.
 
