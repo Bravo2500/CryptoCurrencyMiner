@@ -1,7 +1,7 @@
 ![Garbage Miner](https://github.com/kaiwenliu/CryptoCurrencyMiner/blob/master/60640C51-59D3-42E3-A8A2-C5912F8B8ECC.png)
 
-# CryptoCurrencyMiner
-A WIP Cryptocurrency mining tool.
+# GarbageMiner
+A really trash crypto miner.
 
 ## About
 The purpose of this tool is to provide miners software that they can put on their Microsoft Windows based mining computers, and it will automatically start mining. This tool will also alow the miners to get info like hash rates, cpu/gpu temp(s), and performance levels.
