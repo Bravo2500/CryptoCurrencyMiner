@@ -56,12 +56,13 @@
             this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.AllowUserToDeleteRows = false;
             this.dataGridView1.AllowUserToResizeRows = false;
-            this.dataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.White;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.IpColumn,
             this.NameColumn,
             this.HashColumn});
+            this.dataGridView1.GridColor = System.Drawing.Color.Black;
             this.dataGridView1.Location = new System.Drawing.Point(16, 43);
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(4);
             this.dataGridView1.Name = "dataGridView1";
@@ -91,24 +92,27 @@
             // 
             // Builderbutton
             // 
+            this.Builderbutton.BackColor = System.Drawing.Color.White;
             this.Builderbutton.Location = new System.Drawing.Point(16, 334);
             this.Builderbutton.Margin = new System.Windows.Forms.Padding(4);
             this.Builderbutton.Name = "Builderbutton";
             this.Builderbutton.Size = new System.Drawing.Size(100, 28);
             this.Builderbutton.TabIndex = 2;
             this.Builderbutton.Text = "Builder";
-            this.Builderbutton.UseVisualStyleBackColor = true;
+            this.Builderbutton.UseVisualStyleBackColor = false;
             this.Builderbutton.Click += new System.EventHandler(this.Builderbutton_Click);
             // 
             // Stopserver
             // 
+            this.Stopserver.BackColor = System.Drawing.Color.White;
+            this.Stopserver.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Stopserver.Location = new System.Drawing.Point(509, 334);
             this.Stopserver.Margin = new System.Windows.Forms.Padding(4);
             this.Stopserver.Name = "Stopserver";
             this.Stopserver.Size = new System.Drawing.Size(100, 28);
             this.Stopserver.TabIndex = 3;
             this.Stopserver.Text = "Stop Server";
-            this.Stopserver.UseVisualStyleBackColor = true;
+            this.Stopserver.UseVisualStyleBackColor = false;
             this.Stopserver.Click += new System.EventHandler(this.Stopserver_Click);
             // 
             // CryptoCurrencyMiner
@@ -121,6 +125,7 @@
             this.Controls.Add(this.Builderbutton);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.label1);
+            this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "CryptoCurrencyMiner";
             this.Text = "Crypto Currency Miner Server";
